@@ -184,3 +184,4 @@ Comment your code clearly.
 Use model.save() or torch.save() to save your model.
 
 #OUTPUT 
+![Image](https://github.com/user-attachments/assets/46ae09a2-6e5e-4f4d-91a7-ff3432b2d712)
